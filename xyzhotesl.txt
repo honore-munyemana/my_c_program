@@ -1,0 +1,7 @@
+honore	january	10	200.000000
+alice	january	4	300.429993
+chris	feb	18	150.000000
+fiston	march	6	300.000000
+mamia	june	4	200.000000
+safi	july	4	180.000000
+winny	july	3	120.000000
