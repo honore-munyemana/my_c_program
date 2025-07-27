@@ -20,3 +20,30 @@ The program allows users to:
    2. Display customers
    3. display customers per month
    0. Exit...
+```
+
+## 🛠️ How to Compile and Run
+Make sure you have GCC installed. Then:
+```
+gcc EXAM_25594.c -o EXAM_25594
+./EXAM_25594      # or EXAM_25594.exe on Windows
+
+```
+
+You can run it directly in VS Code's terminal.
+
+## 📁 File Overview
+
+| File Name                             | Description                                |
+| ------------------------------------- | ------------------------------------------ |
+| `EXAM_25594.c`                        | Main C file containing the full program    |
+| *(any other .c or .h files you used)* | Additional source or header files (if any) |
+
+
+## 🧑‍🎓 Author
+
+Honore Munyemana
+BSc in Information Management – AUCA
+
+## 📜 License
+This project was submitted as part of an academic assessment and is not intended for redistribution.
