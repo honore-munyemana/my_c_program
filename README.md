@@ -37,7 +37,6 @@ You can run it directly in VS Code's terminal.
 | File Name                             | Description                                |
 | ------------------------------------- | ------------------------------------------ |
 | `EXAM_25594.c`                        | Main C file containing the full program    |
-| *(any other .c or .h files you used)* | Additional source or header files (if any) |
 
 
 ## 🧑‍🎓 Author
